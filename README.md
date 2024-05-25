@@ -1,1 +1,1 @@
-# TopLaptop
+TopLaptop: AI Laptop Expert is a Streamlit app designed to help users find their perfect laptop based on their specific requirements. By leveraging Google's Generative AI, the app provides personalized laptop recommendations. Users input their needs and preferences through a simple and interactive sidebar, and the app generates a detailed recommendation based on the provided information.
